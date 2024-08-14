@@ -53,5 +53,5 @@ Document the entire process.
 Create reports and visualizations.
 
 
-The dataset mb is very large it is in zip format you can download the daataset from the kaggle by using the below link:-
+The dataset mb is very large it is in zip format you can download the dataset from the kaggle by using the below link:-
 https://www.kaggle.com/code/bandimohitha/credit-card-fraud-detection/input
